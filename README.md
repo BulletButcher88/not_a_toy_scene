@@ -3,7 +3,7 @@
 
 In this project we aim to create a online shop for unique handmand toys, made by Australian artist.
 
-###--WORK IN PROGRESS, STAY TUNED--
+### -- WORK IN PROGRESS, STAY TUNED --
 
 
 
