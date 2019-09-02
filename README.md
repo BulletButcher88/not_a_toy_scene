@@ -10,8 +10,6 @@ Or clode the repository and then:
 ### `npm i`
 to install dependencies 
 
-### `npm run build`
-
 
 ### `npm start`
 to launch the React app. 
